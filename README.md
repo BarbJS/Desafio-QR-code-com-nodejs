@@ -1,6 +1,6 @@
 # 📦 Gerador de QR codes para E-commerce - Tools Kit 
 
-Este projeto é um conjunto de ferramentas de linha de comando (CLI) desenvolvido com **Node.js**. Ele foi criado como parte de um desafio de lógica de programação e arquitetura de projetos em JavaScript, focando na modularização e uso eficiente de recursos do ecossistema Node.
+Este projeto é um conjunto de ferramentas de linha de comando (CLI) desenvolvido com **Node.js**. Ele foi criado como parte de um desafio de lógica de programação e arquitetura de projetos em JavaScript, focando na modularização e uso eficiente de recursos do ecossistema Node. Este repositório foi desenvolvido como parte do desafio de projeto do curso de Node.js da plataforma DIO (Digital Innovation One), proposto pelo professor Felipe Aguiar.
 
 ## 🎯 Objetivos do Desafio
 
